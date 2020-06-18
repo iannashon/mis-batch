@@ -169,8 +169,8 @@
       "type":"Feature",
       "geometry":{
         "type":"Polygon",
-        "coordinates":
-            [
+        "coordinates":[
+        [
               [
                 39.72447390372848,
                 -4.985603662320091
@@ -428,6 +428,7 @@
                 -4.985603662320091
               ]
             ]
+        ]
       },
       "properties":{
         "id":32,
